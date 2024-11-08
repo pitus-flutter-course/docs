@@ -35,7 +35,8 @@
               "title": "Лекция 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "_assets/uml/Лекция 3.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Readme"
+              "title": "Структура Лекция 3"
             }
           },
           {
@@ -188,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebe75db401c82e7",
+  "active": "5d14c2c087f14114",
   "lastOpenFiles": [
     "Flutter/1. Основы UI/3. Типы виджетов.md",
     "Flutter/1. Основы UI/1. Основы UI.md",
