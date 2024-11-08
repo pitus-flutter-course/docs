@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/1. Основы UI/4. Библиотеки виджетов.md",
+                "file": "Flutter/1. Основы UI/3. Типы виджетов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Библиотеки виджетов"
+              "title": "3. Типы виджетов"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/1. Основы UI/4. Библиотеки виджетов.md"
+                "file": "Flutter/1. Основы UI/3. Типы виджетов.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 4. Библиотеки виджетов"
+              "title": "Структура 3. Типы виджетов"
             }
           },
           {
@@ -191,11 +191,11 @@
   },
   "active": "5d14c2c087f14114",
   "lastOpenFiles": [
-    "Лекции/Лекция 3/Конспект.md",
-    "Flutter/1. Основы UI/4. Библиотеки виджетов.md",
-    "Flutter/1. Основы UI/3. Типы виджетов.md",
-    "Flutter/1. Основы UI/2. Демо-приложение Counter.md",
     "Flutter/1. Основы UI/1. Введение.md",
+    "Flutter/1. Основы UI/2. Демо-приложение Counter.md",
+    "Flutter/1. Основы UI/3. Типы виджетов.md",
+    "Flutter/1. Основы UI/4. Библиотеки виджетов.md",
+    "Лекции/Лекция 3/Конспект.md",
     "_templates/site headers.md",
     "_assets/png/Снимок экрана 2024-11-07 в 19.24.38.png",
     "_assets/png/Снимок экрана 2024-11-07 в 18.10.13.png",
