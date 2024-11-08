@@ -1,5 +1,6 @@
 [
   "obsidian-plantuml",
   "webpage-html-export",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-toc"
 ]
