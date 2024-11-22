@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
+                "file": "Flutter/2. Управление состоянием/3. Архитектурные паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Эфемерное состояние"
+              "title": "3. Архитектурные паттерны"
             }
           }
         ],
@@ -191,15 +191,16 @@
   },
   "active": "5d14c2c087f14114",
   "lastOpenFiles": [
-    "Flutter/2. Управление состоянием/1. Введение.md",
     "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
+    "Flutter/2. Управление состоянием/1. Введение.md",
+    "Flutter/2. Управление состоянием/3. Архитектурные паттерны.md",
+    "Flutter/1. Основы UI/1. Введение.md",
     "Pasted image 20241122151414.png",
     "Pasted image 20241122151409.png",
     "Flutter/1. Основы UI/5. Layout.md",
     "Flutter/1. Основы UI/4. Основные виджеты.md",
     "Flutter/1. Основы UI/3. Типы виджетов.md",
     "Flutter/1. Основы UI/2. Демо-приложение Counter.md",
-    "Flutter/1. Основы UI/1. Введение.md",
     "_assets/uml/Основы UI.md",
     "_assets/uml/Лекция 3.md",
     "Pasted image 20241121164115.png",
