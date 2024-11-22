@@ -11,12 +11,14 @@
             "id": "a08cd5ca4cccd43f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_assets/png/Снимок экрана 2024-11-07 в 18.10.13.png"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Снимок экрана 2024-11-07 в 18.10.13"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           },
           {
@@ -25,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Лекция 3/Домашнее задание.md",
+                "file": "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домашнее задание"
+              "title": "2. Эфемерное состояние"
             }
           }
         ],
@@ -90,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 241.5
   },
   "right": {
     "id": "97fe63a625658196",
@@ -152,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Лекция 3/Домашнее задание.md"
+                "file": "Лекции/Лекция 3/Конспект.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Домашнее задание"
+              "title": "Структура Конспект"
             }
           },
           {
@@ -189,22 +191,30 @@
   },
   "active": "5d14c2c087f14114",
   "lastOpenFiles": [
-    "Flutter/1. Основы UI/1. Введение.md",
-    "Лекции/Лекция 3/Домашнее задание.md",
+    "Flutter/2. Управление состоянием/1. Введение.md",
+    "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
+    "Pasted image 20241122151414.png",
+    "Pasted image 20241122151409.png",
     "Flutter/1. Основы UI/5. Layout.md",
     "Flutter/1. Основы UI/4. Основные виджеты.md",
     "Flutter/1. Основы UI/3. Типы виджетов.md",
-    "_assets/uml/Лекция 3.md",
-    "_assets/png/Снимок экрана 2024-11-07 в 18.10.13.png",
-    "_assets/png/Снимок экрана 2024-11-07 в 19.24.38.png",
     "Flutter/1. Основы UI/2. Демо-приложение Counter.md",
-    "Flutter/1. Основы UI/1. Основы UI.md",
-    "Readme.md",
+    "Flutter/1. Основы UI/1. Введение.md",
+    "_assets/uml/Основы UI.md",
+    "_assets/uml/Лекция 3.md",
+    "Pasted image 20241121164115.png",
+    "Pasted image 20241121163923.png",
+    "Лекции/Лекция 3/Домашнее задание.md",
+    "Лекции/Лекция 3/Конспект.md",
+    "Flutter/2. Управление состоянием",
+    "_templates/site headers.md",
+    "_assets/png/Снимок экрана 2024-11-07 в 19.24.38.png",
+    "_assets/png/Снимок экрана 2024-11-07 в 18.10.13.png",
     "_assets/png/Лекция 3-2024-11-07-13-56-23.png",
+    "Readme.md",
     "Flutter/1. Основы UI/Без названия",
     "Flutter/1. Основы UI/Типы виджетов/StatelessWidget.md",
     "Flutter/1. Основы UI/Типы виджетов/StatefulWidget.md",
-    "_assets/uml/Основы UI.md",
     "Лекции",
     "_assets/png/Основы UI-2024-11-07-09-02-48.png",
     "_assets/png",
@@ -213,11 +223,9 @@
     "Flutter/Основы/Без названия",
     "Flutter/1. Основы UI",
     "Flutter/Типы виджетов/InheritedWidget.md",
-    "_templates/site headers.md",
     "Flutter/1. Основы UI/Типы виджетов",
     "Flutter/Без названия.md",
     "_templates",
-    "Flutter",
     "Лекция 3/Конспект-2024-11-06-15-04-12.png",
     "Лекция 3/Лекция.md"
   ]
