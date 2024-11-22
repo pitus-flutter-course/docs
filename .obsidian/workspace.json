@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c47c1828c97b4f79",
+        "id": "836d3363ac8db783",
         "type": "tabs",
         "children": [
           {
-            "id": "a08cd5ca4cccd43f",
+            "id": "7d8d22b2c6c68b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Flutter/2. Управление состоянием/4. Инъекция зависимостей, Prop-drilling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "5d14c2c087f14114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/2. Управление состоянием/3. Архитектурные паттерны.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Архитектурные паттерны"
+              "title": "4. Инъекция зависимостей, Prop-drilling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d14c2c087f14114",
+  "active": "7d8d22b2c6c68b37",
   "lastOpenFiles": [
-    "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
     "Flutter/2. Управление состоянием/1. Введение.md",
+    "Flutter/2. Управление состоянием/2. Эфемерное состояние.md",
     "Flutter/2. Управление состоянием/3. Архитектурные паттерны.md",
+    "Flutter/2. Управление состоянием/4. Инъекция зависимостей, Prop-drilling.md",
+    "Эфемерное состояние.md",
     "Flutter/1. Основы UI/1. Введение.md",
     "Pasted image 20241122151414.png",
     "Pasted image 20241122151409.png",
